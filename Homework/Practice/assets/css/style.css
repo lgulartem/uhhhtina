@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/32407.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'MedievalSharp', cursive;
+}
+
+h1 {
+    font-family: 'Monofett', cursive;
+    text-align: center;
+    font-size: 24px;
+    background: transparent;
+}
